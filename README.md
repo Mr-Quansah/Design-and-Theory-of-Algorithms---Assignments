@@ -1,1 +1,1 @@
-The files uploaded are only the runnable files of the assignment
+The files uploaded are only the runnable files of the assignments
